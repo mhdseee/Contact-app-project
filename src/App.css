@@ -1,0 +1,22 @@
+input[type= "text"]::placeholder,
+input[type= "number"]::placeholder,
+input[type= "email"]::placeholder,
+.form-control{
+    color: #F8F8F2;
+    background-color: #44475A;
+    border-color: #96351E;
+}
+
+.img{
+    width: 150px;
+    height: 150px;
+}
+
+body{
+    background-color: #DBB98f;
+    direction: rtl;
+}
+
+.list-group-item{
+    background-color: #FCEDDA;
+}

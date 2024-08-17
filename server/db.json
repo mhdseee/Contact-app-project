@@ -1,0 +1,53 @@
+{
+  "contacts": [
+    {
+      "id": "1",
+      "fullname": " محدثه غلامی",
+      "photo": "dd",
+      "mobile": "0923456622",
+      "email": "mhdseghlmi@gmail.com",
+      "job": "برنامه نویس",
+      "group": "4"
+    },
+    {
+      "id": "e57e",
+      "fullname": "زهرا راد",
+      "photo": "بب",
+      "mobile": "09154063290",
+      "email": "zahra@gamail.com",
+      "job": "مدرس",
+      "group": "2"
+    },
+    {
+      "id": "73d8",
+      "fullname": "نگار فروزنده",
+      "photo": "بب",
+      "mobile": "09154763380",
+      "email": "negar@gmail.com",
+      "job": "مهندس",
+      "group": "4"
+    }
+  ],
+  "groups": [
+    {
+      "id": "1",
+      "name": "همکار"
+    },
+    {
+      "id": "2",
+      "name": "فامیل"
+    },
+    {
+      "id": "3",
+      "name": "دوست"
+    },
+    {
+      "id": "4",
+      "name": "آشنا"
+    },
+    {
+      "id": "5",
+      "name": "سرویس"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+@font-face {
+    font-family: "Vazir";
+    src: url(../fonts/Vazir.eot);
+    src: url(../fonts/Vazir.woff2);
+    src: url(../fonts/Vazir.woff);
+    src: url(../fonts/Vazir.ttf);
+}
+body{
+    font-family: " Vazir", "tahoma";
+}
